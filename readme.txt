@@ -4,4 +4,4 @@ This is a tool for modders interested in making a total overhaul of the map. The
 
 This mod is technically playable, with one test country. This is just for testing that a new game can successfully start. There are still many errors using this with the vanilla game; only game-crashing references to non-existant states/strategic regions/provinces, etc. were removed.
 
-Enjoy!
+Enjoy! Peace!
