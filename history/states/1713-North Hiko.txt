@@ -1,0 +1,23 @@
+state={
+	id=1713
+	name="STATE_1713"
+	provinces={
+		1414 1986 4922 8625 9092 9192 14603 15771 16156 20185 20262 20314 20408 20453 20560 20662 20731 
+	}
+	history={
+		owner = HIK
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = HIK
+		add_core_of = WHK
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+}

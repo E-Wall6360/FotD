@@ -1,0 +1,22 @@
+state={
+	id=558
+	name="STATE_558"
+	provinces={
+		697 1746 15356 22237 22342 22373 22374 22427 22657 22717 
+	}
+	history={
+		owner = JOL
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = JOL
+	}
+	manpower=100
+	
+}

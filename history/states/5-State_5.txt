@@ -1,0 +1,23 @@
+state={
+	id=5
+	name="STATE_5"
+	provinces={
+		2690 8789 14339 15885 20550 20799 20909 
+	}
+	history={
+		owner = WHK
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = HIK
+		add_core_of = WHK
+	}
+	manpower=100
+	
+}

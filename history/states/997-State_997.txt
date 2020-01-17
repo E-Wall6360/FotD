@@ -1,0 +1,22 @@
+state={
+	id=997
+	name="STATE_997"
+	provinces={
+		1937 10579 13127 13410 13685 14316 26893 26894 26983 26984 27075 27136 27251 27334 
+	}
+	history={
+		owner = KEL
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = KEL
+	}
+	manpower=100
+	
+}

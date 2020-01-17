@@ -1,0 +1,9 @@
+state={
+	id=757
+	name="STATE_757"
+	provinces={
+		5570 6198 24305 24408 24525 24660 
+	}
+	manpower=100
+	
+}

@@ -1,0 +1,19 @@
+bookmarks = {
+	bookmark = {
+		name = "Awakening of the Giants"
+		desc = "With Xan and Berliningrad enering the international scene Caska and many other majors are no longer content with holding their breaths and waiting for these dictators to reveal themselves and with Hiko unified under the Red Banner a new cold war looms over the horizon. It seems the fog of war has returned, Will you die, or thrive?"
+		date = 2000.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "MIN"
+		default = no
+		
+		"MIN"={
+			history = "OTHER_GATHERING_STORM_DESC"
+			ideology = communism
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

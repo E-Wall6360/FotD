@@ -1,0 +1,22 @@
+state={
+	id=1530
+	name="STATE_1530"
+	provinces={
+		456 502 520 2160 3489 4317 4548 5432 6207 7695 8285 8603 8624 9319 11172 12129 12304 12598 15126 15342 15805 32606 32679 32726 32788 32789 32854 32867 32920 32977 33002 33039 33056 33057 33092 33098 33135 33136 
+	}
+	history={
+		owner = MIN
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = MIN
+	}
+	manpower=100
+	
+}

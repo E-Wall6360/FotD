@@ -1,0 +1,10 @@
+
+TST = "countries/Test.txt"
+ISO = "countries/Iso.txt"
+HLA = "countries/Hella.txt"
+MIA = "countries/Mia.txt"
+HIK = "countries/Hiko.txt"
+WHK = "countries/West Hiko.txt"
+JOL = "countries/Joll.txt"
+MIN = "countries/Minijuujui.txt"
+KEL = "countries/Kelioa.txt"

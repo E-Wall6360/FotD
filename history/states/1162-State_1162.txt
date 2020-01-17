@@ -1,0 +1,21 @@
+state={
+	id=1162
+	name="STATE_1162"
+	provinces={
+		9157 13699 29007 
+	}
+	history={
+		owner = ISO
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = ISO
+	}
+	manpower=100
+}

@@ -1,0 +1,22 @@
+state={
+	id=1444
+	name="STATE_1444"
+	provinces={
+		4336 5048 8125 8444 8693 10643 12187 31837 31920 31955 31982 32003 32035 32036 32080 32101 32139 32174 32250 
+	}
+	history={
+		owner = MIN
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = MIN
+	}
+	manpower=100
+	
+}

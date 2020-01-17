@@ -1,0 +1,22 @@
+state={
+	id=1179
+	name="STATE_1179"
+	provinces={
+		12039 14533 15723 16552 28990 29061 29110 29130 29205 29393 
+	}
+	history={
+		owner = ISO
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = ISO
+	}
+	manpower=100
+	
+}

@@ -1,0 +1,23 @@
+state={
+	id=407
+	name="STATE_407"
+	provinces={
+		5743 6215 8219 15374 20389 20493 20884 20981 21013 
+	}
+	history={
+		owner = WHK
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = HIK
+		add_core_of = WHK
+	}
+	manpower=100
+	
+}

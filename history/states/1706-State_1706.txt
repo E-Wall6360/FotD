@@ -1,0 +1,23 @@
+state={
+	id=1706
+	name="STATE_1706"
+	provinces={
+		436 1592 1741 2747 2866 3009 3468 4190 5057 5447 7015 8290 9383 15244 16294 16598 35085 35086 35087 35088 35109 35110 35117 35128 35129 35134 35139 35149 35152 35154 35157 35159 
+	}
+	history={
+		owner = HLA
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = HLA
+		add_core_of = MIA
+	}
+	manpower=100
+	
+}

@@ -1,0 +1,9 @@
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		14102 16891 16892 16907 16934 16935 16949 
+	}
+	manpower=100
+	
+}
