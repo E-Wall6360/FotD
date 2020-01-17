@@ -1,7 +1,13 @@
-Modding Utility: Blank Map Template: 5632×2048 (Vanilla Size)
+Thank you for installing the Future of the Doomed Unofficial Hearts of Iron IV mod.
 
-This is a tool for modders interested in making a total overhaul of the map. The old province map is replaced by a new one with just 46 giant rectangular provinces. In addition, all terrain features have been removed.
+INSTALLATION INSTRUCTIONS
 
-This mod is technically playable, with one test country. This is just for testing that a new game can successfully start. There are still many errors using this with the vanilla game; only game-crashing references to non-existant states/strategic regions/provinces, etc. were removed.
+create a folder named FotD under /Documents/Paradox Interactive/Hearts of Iron IV/mod
+move all the folders to /Documents/Paradox Interactive/Hearts of Iron IV/mod/FotD
+place FotD.mod in /Documents/Paradox Interactive/Hearts of Iron IV/mod
 
-Enjoy! Peace!
+Enjoy!
+
+If yo're having trouble with the mod you can join my discord server and discuss the problems with me
+
+https://discord.gg/uTkFKPx
