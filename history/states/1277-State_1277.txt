@@ -4,6 +4,20 @@ state={
 	provinces={
 		696 3666 6435 7977 8165 8259 10168 10863 11732 16211 16377 30198 30245 30280 30288 30304 30305 30310 30339 30354 30387 30408 30444 30458 30483 30528 30529 
 	}
+	history={
+		owner = DOR
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = DOR
+		add_core_of = WHK
+	}
 	manpower=100
 	
 }
