@@ -8,6 +8,6 @@ place FotD.mod in /Documents/Paradox Interactive/Hearts of Iron IV/mod
 
 Enjoy!
 
-If yo're having trouble with the mod you can join my discord server and discuss the problems with me
+If you're having trouble with the mod you can join my discord server and discuss the problems with me
 
 https://discord.gg/uTkFKPx
