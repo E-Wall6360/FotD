@@ -5,7 +5,7 @@ state={
 		362 2119 3886 4290 4647 8273 11318 15627 30621 30635 30636 30680 30690 30696 30751 30756 30762 30839 
 	}
 	history={
-		owner = DOR
+		owner = ALE
 		victory_points = { 3838 1 }
 		buildings = {
 			infrastructure = 4
@@ -16,7 +16,7 @@ state={
 			}
 		}
 		add_core_of = DOR
-		add_core_of = WHK
+		add_core_of = ALE
 	}
 	manpower=100
 	

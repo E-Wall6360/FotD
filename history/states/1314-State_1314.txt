@@ -4,6 +4,19 @@ state={
 	provinces={
 		111 198 2388 2623 4824 6190 7928 8002 9035 9381 11369 12651 12875 15276 15526 30319 30442 30467 30488 30543 30559 30565 30573 30610 30628 30633 30651 30669 30695 30703 30709 30735 30760 30768 30795 30819 30868 30941 
 	}
+	history={
+		owner = YEL
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = YEL
+	}
 	manpower=100
 	
 }

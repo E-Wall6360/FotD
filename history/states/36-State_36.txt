@@ -4,6 +4,19 @@ state={
 	provinces={
 		4428 8487 8691 9613 13441 13800 13909 15933 35144 35145 35146 35147 35158 35161 35162 35164 35166 35167 35171 35175 
 	}
+	history={
+		owner = ALE
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = ALE
+	}
 	manpower=100
 	
 }
